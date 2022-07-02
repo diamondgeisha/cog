@@ -1,0 +1,4 @@
+cog predict r8.im/dribnet/pixray-text2image@sha256:03cb6d1c66dde1c6523ca95df9794eeec6cefbef15ce2575a27ce5d87180b3de \
+  -i prompts=a wilderness of growing things \
+  -i quality=best \
+  -i aspect=widescreen 
